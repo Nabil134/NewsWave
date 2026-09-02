@@ -1,6 +1,7 @@
-<img width="576" height="1280" alt="WhatsApp Image 2026-08-26 at 21 33 34" src="https://github.com/user-attachments/assets/92a1d522-a818-44ad-8f8d-7d6dbc085acf" />
 <img width="576" height="1280" alt="WhatsApp Image 2026-08-26 at 21 32 30" src="https://github.com/user-attachments/assets/cc6c6436-63b6-4761-8951-6dda0a263fc9" />
 # news_wave<img width="576" height="1280" alt="WhatsApp Image 2026-08-26 at 21 32 59" src="https://github.com/user-attachments/assets/898b1244-bf4b-4b22-a438-1c9aacb0e358" />
+<img width="576" height="1280" alt="WhatsApp Image 2026-08-26 at 21 33 34" src="https://github.com/user-attachments/assets/92a1d522-a818-44ad-8f8d-7d6dbc085acf" />
+
 
 
 A new Flutter project.
