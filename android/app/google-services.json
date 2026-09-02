@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991237928883",
+    "project_id": "optimal-disk-484409-e3",
+    "storage_bucket": "optimal-disk-484409-e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991237928883:android:b8266a3b2c9fd76d6fbdc6",
+        "android_client_info": {
+          "package_name": "com.example.news_wave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2_Taie93Aj6IH5rKt3Y_jFV9DFglrezU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
