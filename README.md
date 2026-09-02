@@ -1,3 +1,4 @@
+<img width="576" height="1280" alt="WhatsApp Image 2026-08-26 at 21 32 30" src="https://github.com/user-attachments/assets/cc6c6436-63b6-4761-8951-6dda0a263fc9" />
 # news_wave
 
 A new Flutter project.
